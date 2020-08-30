@@ -1,0 +1,11 @@
+.gif-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+h3 {
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 1.6rem;
+}
